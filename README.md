@@ -36,8 +36,8 @@ by category. Data is stored in PostgreSQL through a Node.js/Express API.
 
 ## Images
 
-![Get-200](backend/images/Get-200 Return all expenses.png)
-![Get-200](backend/images/Get-200 Return one expense .png)
+![Get-200](backend/images/Get-200.png)
+![Get-200](backend/images/Get-200.png)
 ![Get-404](backend/images/Get-404.png)
 ![Post-201](backend/images/Post-201.png)
 ![Post-200](backend/images/Post-200.png)
