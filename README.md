@@ -34,6 +34,20 @@ by category. Data is stored in PostgreSQL through a Node.js/Express API.
 | PUT    | /api/expenses/:id  | Update an expense     | 200     | 400, 404 |
 | DELETE | /api/expenses/:id  | Delete an expense     | 200     | 404      |
 
+## Images
+
+![Get-200](backend/images/Get-200 Return all expenses.png)
+![Get-200](backend/images/Get-200 Return one expense .png)
+![Get-404](backend/images/Get-404.png)
+![Post-201](backend/images/Post-201.png)
+![Post-200](backend/images/Post-200.png)
+![Post-400](backend/images/Post-400.png)
+![Put-200](backend/images/Put-200.png)
+![Put-400](backend/images/Put-400.png)
+![Put-404](backend/images/Put-404.png)
+![Delete-200](backend/images/Delete-200.png)
+![Delete-404](backend/images/Delete-404.png)
+
 ## Features
 
 - [x] Add an expense (with validation)
@@ -68,3 +82,8 @@ SELECT. I also ran into an `EADDRINUSE` error a few times from an old server
 still running in another terminal, and a `.env` file that wasn't being read
 correctly at first — restarting the server after every change and
 double-checking the file name and path solved both.
+
+
+## Links & Demo
+* **GitHub Repository:** [https://github.com/randmaghierh-commits/First-Project]
+* **Demo Video:** [https://drive.google.com/file/d/1uxj63IgLqO2k7YJSV3O4NW8kTXS1Pfcp/view?usp=drive_link]
